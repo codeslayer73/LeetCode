@@ -1,3 +1,3 @@
 # LeetCode
 
-Time to prepaare for the interview
+Time to prepare for the interview
